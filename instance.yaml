@@ -3,6 +3,6 @@ default_context:
   initial_user_password: "admin"
 
   load_zcml:
-    package_includes: []
+    package_includes: ["collective.playlist"]
 
   db_storage: direct
