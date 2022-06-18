@@ -2,6 +2,8 @@
 
 pip and [mxdev](https://pypi.org/project/mxdev/) allows to install Plone in a comfortable way. No buildout anymore.
 
+This repo is a template for your custom Plone setup. If you like, create your own repo by clicking the 'template' button above.
+
 ## Installation
 
 Add your add-ons to `instance.yaml` and `requirements.txt`.
@@ -48,3 +50,8 @@ runwsgi instance/etc/zope.ini
 ```
 
 Head over to http://localhost:8080/
+
+## Credits
+
+The mxstack team did a great job: @jensens @rnixx @zworkb
+
