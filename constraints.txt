@@ -1,0 +1,4 @@
+-c https://dist.plone.org/release/5.2.8/constraints.txt
+
+# constraints of add-ons
+# collective.easyform==3.4.5

@@ -1,0 +1,7 @@
+-c constraints.txt
+
+Plone
+Zope[wsgi]
+
+# List of add-ons that are needed.
+# collective.playlist

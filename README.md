@@ -1,0 +1,1 @@
+Plone 5.2 needs Python < 3.9

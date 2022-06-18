@@ -1,0 +1,19 @@
+###############################################################################
+# mxdev combined constraints
+-c constraints-mxdev.txt
+
+
+###############################################################################
+# mxdev development sources
+
+###############################################################################
+# begin requirements from: requirements.txt
+
+
+Plone
+Zope[wsgi]
+
+# List of add-ons that are needed.
+# collective.playlist
+# end requirements from: requirements.txt
+###############################################################################
