@@ -87,7 +87,7 @@ ZEO==5.2.3
 ZODB==5.6.0
 ZODB3==3.11.0
 ZServer==4.0.2
-# Zope==4.8.1 -> mxdev disabled (override)
+Zope==4.8.1
 Zope2==4.0
 ZopeUndo==4.3
 alabaster==0.7.12
@@ -490,9 +490,4 @@ sphinxcontrib-serializinghtml==1.1.5; python_version >= "3.0"
 # collective.easyform==3.4.5
 # end constraints from: constraints.txt
 ###############################################################################
-
-
-###############################################################################
-# mxdev constraint overrides
-Zope==4.8.1
 
